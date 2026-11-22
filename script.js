@@ -2,11 +2,6 @@
 const sliders = document.querySelectorAll(".slider");
 const prevBtn = document.querySelector(".prev");
 const nextBtn = document.querySelector(".next");
-const indicator = document.querySelector(".indicator");
-const testBtn = document.querySelector(".test-btn");
-const sliderContainer = document.querySelector(".slider-container");
-const videoBg = document.querySelector(".video-bg");
-const cardSliderPrevBtn = document.querySelector(".card-slider-prev-btn");
 const cardSliderNxtBtn = document.querySelector(".card-slider-next-btn");
 
 
